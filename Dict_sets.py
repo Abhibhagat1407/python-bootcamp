@@ -1,4 +1,7 @@
 
+####Question: store following mening in a python dictiornary
+
+
 # iteams = {
 #     "table" : ["a piece of furniture", "list of facts and figures"],
 
@@ -8,6 +11,10 @@
 # }
 
 # print(type(iteams))
+
+
+#####Question: each subject will required to have seprate classroom, then how many classroom required?
+
 
 
 classroom = {
